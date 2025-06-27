@@ -1,0 +1,47 @@
+
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## VS Code files
+.vscode/
+
+## NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+*.psmdcp
+
+## Others
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+*.dotCover
+TestResults/
+*.log
+
+## Configuration files
+appsettings.*.json
+*.env
+
+## System files
+Thumbs.db
+ehthumbs.db
+*.DS_Store
+*.Spotlight-V100
+*.Trashes

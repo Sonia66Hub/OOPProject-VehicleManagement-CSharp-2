@@ -1,0 +1,7 @@
+D:\R_63\CSharp_R63\Evidence\MidMonthEvidenceCSharp\MidMonthEvidenceCSharp\bin\Debug\MidMonthEvidenceCSharp.exe.config
+D:\R_63\CSharp_R63\Evidence\MidMonthEvidenceCSharp\MidMonthEvidenceCSharp\bin\Debug\MidMonthEvidenceCSharp.exe
+D:\R_63\CSharp_R63\Evidence\MidMonthEvidenceCSharp\MidMonthEvidenceCSharp\bin\Debug\MidMonthEvidenceCSharp.pdb
+D:\R_63\CSharp_R63\Evidence\MidMonthEvidenceCSharp\MidMonthEvidenceCSharp\obj\Debug\MidMonthEvidenceCSharp.csproj.AssemblyReference.cache
+D:\R_63\CSharp_R63\Evidence\MidMonthEvidenceCSharp\MidMonthEvidenceCSharp\obj\Debug\MidMonthEvidenceCSharp.csproj.CoreCompileInputs.cache
+D:\R_63\CSharp_R63\Evidence\MidMonthEvidenceCSharp\MidMonthEvidenceCSharp\obj\Debug\MidMonthEvidenceCSharp.exe
+D:\R_63\CSharp_R63\Evidence\MidMonthEvidenceCSharp\MidMonthEvidenceCSharp\obj\Debug\MidMonthEvidenceCSharp.pdb
